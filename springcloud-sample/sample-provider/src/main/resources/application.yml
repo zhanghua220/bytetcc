@@ -1,0 +1,15 @@
+server:
+  port: 7070
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7000/eureka/
+hystrix:
+ metrics:
+  enabled: true
+ command:
+  default:
+   execution:
+    isolation:
+     thread:
+       timeoutInMilliseconds: 100000

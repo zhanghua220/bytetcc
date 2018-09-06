@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sample-provider2/sample-provider2.iml" filepath="$PROJECT_DIR$/sample-provider2/sample-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-sample.iml" filepath="$PROJECT_DIR$/.idea/springcloud-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-consumer/springcloud-sample-consumer.iml" filepath="$PROJECT_DIR$/sample-consumer/springcloud-sample-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-eureka-server/springcloud-sample-eureka.iml" filepath="$PROJECT_DIR$/sample-eureka-server/springcloud-sample-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-provider/springcloud-sample-provider.iml" filepath="$PROJECT_DIR$/sample-provider/springcloud-sample-provider.iml" />
+    </modules>
+  </component>
+</project>
